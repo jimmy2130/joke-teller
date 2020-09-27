@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joke-teller-react/static/css/main.e231e738.chunk.css",
+    "main.js": "/joke-teller-react/static/js/main.ed46476a.chunk.js",
+    "main.js.map": "/joke-teller-react/static/js/main.ed46476a.chunk.js.map",
+    "runtime-main.js": "/joke-teller-react/static/js/runtime-main.a2ca8539.js",
+    "runtime-main.js.map": "/joke-teller-react/static/js/runtime-main.a2ca8539.js.map",
+    "static/js/2.4c8c76be.chunk.js": "/joke-teller-react/static/js/2.4c8c76be.chunk.js",
+    "static/js/2.4c8c76be.chunk.js.map": "/joke-teller-react/static/js/2.4c8c76be.chunk.js.map",
+    "index.html": "/joke-teller-react/index.html",
+    "precache-manifest.60a39bdc4e2e3beb025f1125cd51ef7f.js": "/joke-teller-react/precache-manifest.60a39bdc4e2e3beb025f1125cd51ef7f.js",
+    "service-worker.js": "/joke-teller-react/service-worker.js",
+    "static/css/main.e231e738.chunk.css.map": "/joke-teller-react/static/css/main.e231e738.chunk.css.map",
+    "static/js/2.4c8c76be.chunk.js.LICENSE.txt": "/joke-teller-react/static/js/2.4c8c76be.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/joke-teller-react/static/media/robot.cf2a8455.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2ca8539.js",
+    "static/js/2.4c8c76be.chunk.js",
+    "static/css/main.e231e738.chunk.css",
+    "static/js/main.ed46476a.chunk.js"
+  ]
+}
